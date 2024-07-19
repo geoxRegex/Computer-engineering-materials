@@ -16,4 +16,4 @@
 
 ### Object Oriented Programming:
 - [Official repository for the course, Professor Squillero](https://github.com/squillero/oop)
-
+- [Official GitLab exams](https://git-oop.polito.it/exams)
